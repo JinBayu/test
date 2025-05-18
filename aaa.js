@@ -1,1 +1,1 @@
-documnet.location="/memo?memo=document.cookie"
+document.location="/memo?memo=document.cookie"
